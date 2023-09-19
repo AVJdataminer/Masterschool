@@ -6,6 +6,6 @@ This is my portfolio home.
 ## Globox Project
 ### Description
 
-![](Example visual resume.jpeg)
+[](Example visual resume.jpeg)
 
 ## Project 2
